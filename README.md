@@ -84,7 +84,7 @@ Citation
 ------------
 When referencing this work, please cite this paper:
 
-[Controlling Japanese Honorifics in English-to-Japanese Neural Machine Translation](www.aclweb.org/anthology/D19-5203.pdf)
+[Controlling Japanese Honorifics in English-to-Japanese Neural Machine Translation](https://www.aclweb.org/anthology/D19-5203.pdf)
 ```
 @inproceedings{Feely:19,
   author    = {Weston Feely and Eva Hasler and Adrià de Gispert},
@@ -92,8 +92,6 @@ When referencing this work, please cite this paper:
   booktitle = {Proceedings of the 6th Workshop on Asian Translation},
   year      = {2019},
   location  = {Hong Kong},
-  pages     = {},
-  url       = {},
 }
 ```
 

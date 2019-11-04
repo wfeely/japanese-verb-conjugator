@@ -83,7 +83,8 @@ Weston Feely
 Citation
 ------------
 When referencing this work, please cite this paper:
-"Controlling Japanese Honorifics in English-to-Japanese Neural Machine Translation"
+
+[Controlling Japanese Honorifics in English-to-Japanese Neural Machine Translation](www.aclweb.org/anthology/D19-5203.pdf)
 ```
 @inproceedings{Feely:19,
   author    = {Weston Feely and Eva Hasler and Adrià de Gispert},

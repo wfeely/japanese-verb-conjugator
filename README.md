@@ -91,7 +91,10 @@ When referencing this work, please cite this paper:
   title     = {Controlling Japanese Honorifics in English-to-Japanese Neural Machine Translation},
   booktitle = {Proceedings of the 6th Workshop on Asian Translation},
   year      = {2019},
-  location  = {Hong Kong},
+  location  = {Hong Kong, China},
+  publisher = "Association for Computational Linguistics",
+  url = "https://www.aclweb.org/anthology/D19-5203"
+  pages = "45--53",
 }
 ```
 
